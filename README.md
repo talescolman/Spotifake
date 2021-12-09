@@ -1,1 +1,1 @@
-https://github.com/talescolman/Spotifake/blob/main/gitpreview.PNG
+![Preview](https://github.com/talescolman/Spotifake/blob/main/gitpreview.PNG)
